@@ -9,7 +9,7 @@
     "zoom_controls": false,
     "user_agent": "",
     "privacy_policy_url": "https://sites.google.com/view/webdroid-privacy-policy",
-    "Tele_gram_url": "https://t.me/WFlix_TV0",
+    "more_apps_url": "https://t.me/WFlix_TV0",
     "redirect_url": ""
   },
   "intro": {
@@ -53,7 +53,7 @@
       "name": "Portfolio",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
+      "url": "https://t.me/WFlix_TV0?target=external",
       "url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
     },
     {
@@ -64,11 +64,11 @@
       "url_dark": "https://www.solodroid.net/demo/webdroid/pages/testimonials_dark.html"
     },
     {
-      "name": "Telegram",
+      "name": "Contact us",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://t.me/WFlix_TV0?target=external",
-      "url_dark": "https://t.me/WFlix_TV0?target=external"
+      "url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
+      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
     },
     {
       "name": "Privacy Policy",
