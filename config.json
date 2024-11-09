@@ -16,26 +16,26 @@
     "status": true,
     "sliders": [
       {
-        "title": "Welcome to WebDroid",
-        "message": "Native Android App based on WebView with excellent design, beautiful, elegant & clean",
+        "title": "Bienvenido a WFlix TV",
+        "message": "Aplicación para Android que te ofrece el mejor lugar para disfrutar de los estrenos de cine. Con una interfaz moderna y fácil de usar, tendrás acceso directo a tus películas favoritas, en cualquier momento y lugar.",
         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider1.png",
         "background_color": "ffffff"
       },
       {
-        "title": "Navigation menu",
-        "message": "WebDroid integrated with remote json so you can manage the navigation drawer item and url dynamically",
+        "title": "Menú de navegación",
+        "message": "Menú de navegación donde puedes buscar y disfrutar de tus series, películas y animes favoritos desde un solo lugar",
         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider2.png",
         "background_color": "ffffff"
       },
       {
-        "title": "Push notification",
-        "message": "Integrated with FCM & OneSignal push notification to notify your users",
+        "title": "Notificación push",
+        "message": "para mantener informados a nuestros usuarios. ¡Y no te olvides de activar las notificaciones para recibir alertas cuando se suba una nueva película!",
         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider3.png",
         "background_color": "ffffff"
       },
       {
-        "title": "Multiple Ad Neworks",
-        "message": "Supports up to 9 ad networks from the most popular providers to make it easier to monetize your app",
+        "title": "Disfruta de nuestra app",
+        "message": "Gracias por leer sobre nuestra integración. ¡Esperamos que disfrutes de todas las nuevas funciones y mejoras que hemos preparado para ti!",
         "image": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webdroid/sliders/slider4.png",
         "background_color": "ffffff"
       }
