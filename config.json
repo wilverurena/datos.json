@@ -72,7 +72,7 @@
     },
     {
       "name": "política de privacidad",
-      "type": "assets",
+      "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
       "url": "https://www.e-droid.net/privacy.php?ida=2402202&idl=es",
       "url_dark": "https://www.e-droid.net/privacy.php?ida=2402202&idl=es"
