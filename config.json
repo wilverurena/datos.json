@@ -67,8 +67,8 @@
       "name": "Telegram",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://t.me/WFlix_TV0",
-      "url_dark": "https://t.me/WFlix_TV0"
+      "url": "https://t.me/WFlix_TV0?target=external",
+      "url_dark": "https://t.me/WFlix_TV0?target=external"
     },
     {
       "name": "Privacy Policy",
