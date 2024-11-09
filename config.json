@@ -57,25 +57,25 @@
       "url_dark": "https://wflixtv535342.blogspot.com/search/label/Series"
     },
     {
-      "name": "Testimonials",
+      "name": "Películas",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/testimonials.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/testimonials.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/testimonials_dark.html"
+      "url": "https://wflixtv535342.blogspot.com/search/label/Peliculas",
+      "url_dark": "https://wflixtv535342.blogspot.com/search/label/Peliculas"
     },
     {
-      "name": "Contact us",
+      "name": "Animes",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/contact.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/contact.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/contact_dark.html"
+      "url": "https://wflixtv535342.blogspot.com/search/label/Animes",
+      "url_dark": "https://wflixtv535342.blogspot.com/search/label/Animes"
     },
     {
-      "name": "Privacy Policy",
+      "name": "Doramas",
       "type": "assets",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/privacy-policy.png",
-      "url": "privacy_policy.html",
-      "url_dark": "privacy_policy_dark.html"
+      "url": "https://wflixtv535342.blogspot.com/search/label/Doramas",
+      "url_dark": "https://wflixtv535342.blogspot.com/search/label/Doramas"
     }
   ],
   "ads": {
