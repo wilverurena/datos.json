@@ -50,11 +50,11 @@
       "url_dark": "https://wflixtv535342.blogspot.com/"
     },
     {
-      "name": "Portfolio",
+      "name": "Series",
       "type": "url",
       "icon": "https://raw.githubusercontent.com/solodroidev/content/uploads/images/webview/icons/portfolio.png",
-      "url": "https://www.solodroid.net/demo/webdroid/pages/portfolio.html",
-      "url_dark": "https://www.solodroid.net/demo/webdroid/pages/portfolio_dark.html"
+      "url": "https://wflixtv535342.blogspot.com/search/label/Series",
+      "url_dark": "https://wflixtv535342.blogspot.com/search/label/Series"
     },
     {
       "name": "Testimonials",
