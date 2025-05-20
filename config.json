@@ -16,26 +16,26 @@
     "status": true,
     "sliders": [
       {
-        "title": "Bienvenido a WFlix TV",
-        "message": "Aplicación para Android que te ofrece el mejor lugar para disfrutar de los estrenos de cine. Con una interfaz moderna y fácil de usar, tendrás acceso directo a tus películas favoritas, en cualquier momento y lugar.",
+        "title": "Bienvenido a WPlix Calculadora",
+        "message": "Tu herramienta esencial para cálculos precisos y rápidos. Con un diseño intuitivo y fácil de usar, realiza tus operaciones sin esfuerzo en cualquier momento y lugar.",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiDIV-R1b4C8webY5Sez-11SolO1ypM9tZZOGbo4J6yD7-pzuO5fKG9woDoyuH0ap1CLQ2C-Vj9himaqFI9F88TyUtqYMID2wGDYNxCTSt5u2Q4WRzHFiMS58gxn_0GhlDjKFy9QlqqmzsFFBvN-8SdEVt3-Hfoi1YaQmzdOhzwoHYsywq_cOT-ognSZ2JI/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%281%29.png",
         "background_color": "ffffff"
       },
       {
         "title": "Menú de navegación",
-        "message": "Menú de navegación donde puedes buscar y disfrutar de tus series, películas y animes favoritos desde un solo lugar",
+        "message": "Navega entre las distintas funciones de WFlix Calculadora. Desde operaciones básicas hasta cálculos avanzados, encuentra lo que necesitas en un solo lugar.",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivMP0_esUqk4swKmpebVCxylN4K45WcZiPizI_-oIxlahAIPh6ouGH21kqgDyxH9Cw42CjDmLX67HjFqXAvHa0Ar7gUcDAGmtvkLWaSiaBe3eItutyji7m8GNVT-PdL6PFt-ftvDV5bfun7r_GUuNGMLgzvqVQqJl_NC38UktfHMyfgRXPtH2o7-Kb2-A_/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%282%29.png",
         "background_color": "ffffff"
       },
       {
         "title": "Notificación push",
-        "message": "para mantener informados a nuestros usuarios. ¡Y no te olvides de activar las notificaciones para recibir alertas cuando se suba una nueva película!",
+        "message": "para mantener informados a nuestros usuarios. ¡Y no te olvides de activar las notificaciones para recibir alertas",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibaoxh6C7oPRbb__OHRYXoWScdqQFSHbD6Z6sZRJ89B5f1SPZ6Mk7vzHCcC8-zcjBsqUWGecxWcCfz1wUPbyJ9qKX_nsyF6-OKd84t0vIfrZj25l6DZHszFPMCv0665zEhoJrP8bcgNchL1UJnvmjZx5WjJT9nq5eV8sQtLNg_wo4bhesAyPXcHyDtQuC8/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%284%29.png",
         "background_color": "ffffff"
       },
       {
         "title": "Disfruta de nuestra app",
-        "message": "🎉✨ Disfruta al máximo de nuestra app, donde encontrarás una gran variedad de contenido esperando por ti. ¡Comencemos! 📲😊",
+        "message": "🎉✨ Disfruta al máximo de WPlix Calculadora. Realiza operaciones de forma sencilla y eficiente. ¡Comencemos a calcular! 📲😊",
         "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg16zaC5wgyTHU18TW8lDvCU6DFUUG2bwo-aItix67Jz2y7hXtLlJbFb0lVWpyM5DK3T9wxIri6MGku9enKfxm7PQOCOkrjn-NkGf42T2BbmDBQ9sfblEt8hm_HSdKMNDeh0ChEFYBsgrQ5pky3NyTSGYFim8I5pDUrZStVW7X5QQ1SHG5o0-ze1EY_B94u/s1600/Dise%C3%B1o%20sin%20t%C3%ADtulo%20%285%29.png",
         "background_color": "ffffff"
       }
