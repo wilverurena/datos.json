@@ -82,6 +82,7 @@
     "ad_status": true,
     "main_ads": "unity",
     "backup_ads": "none",
+    "admob_publisher_id": "pub-4293613451312559",
     "admob_banner_unit_id": "ca-app-pub-3940256099942544/9214589741",
     "admob_interstitial_unit_id": "ca-app-pub-3940256099942544/1033173712",
     "admob_native_unit_id": "ca-app-pub-3940256099942544/2247696110",
